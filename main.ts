@@ -1,3 +1,4 @@
+// The vacuum remembers that corner, even if the map does not.
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const entry =
